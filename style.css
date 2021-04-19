@@ -1,0 +1,55 @@
+.Font-Name {
+            
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: darkseagreen;
+}
+.Info-Style {
+    font-family: monospace,sans-serif;
+}
+.Size-Elements {
+    font-size: 100%;
+} 
+div:nth-of-type(3) p {
+    top: 120px;
+    position: absolute;
+    left: 199px;
+    top: 120px;
+}
+div:nth-of-type(1) p {
+    text-align: center;
+}
+ div:nth-of-type(2) img {
+     padding: 15px;
+     background-color: darkslategray;
+ }
+
+ a {
+     padding: 6px;
+     background-color: indigo;
+     text-decoration: none;
+     color: white;
+     border-radius: 13%;
+     margin: 20px;
+ }
+div:nth-of-type(1) li {
+    text-decoration: underline;
+}
+
+div:nth-last-of-type(2) li {
+    text-decoration: underline;
+}
+     
+
+ 
+/* Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+A descrição deve ficar ao lado da foto;
+
+Centralize seu nome na página;
+
+Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+
+Adicione margin e padding nos elementos que julgar necessário;
+
+Coloque estilo somente nos itens ímpares da lista das suas habilidades. */
